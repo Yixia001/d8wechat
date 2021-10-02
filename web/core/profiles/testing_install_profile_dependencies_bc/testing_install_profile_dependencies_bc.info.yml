@@ -2,7 +2,7 @@ name: 'Testing install profile dependencies BC layer'
 type: profile
 description: 'Profile for testing BC layer for profile dependencies.'
 # version: VERSION
-# core: 8.x
+core: 8.x
 hidden: true
 dependencies:
   - dblog
@@ -10,8 +10,7 @@ dependencies:
 themes:
   - classy
 
-# Information added by Drupal.org packaging script on 2019-03-14
-version: '8.6.12'
-core: '8.x'
+# Information added by Drupal.org packaging script on 2021-01-20
+version: '8.9.13'
 project: 'drupal'
-datestamp: 1552601843
+datestamp: 1611162326
